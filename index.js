@@ -15,7 +15,7 @@ function logWhisper(string){
   return string.toLowerCase();
 }
 
-function sayHiToHeadphonedRoommate(string){
+function sayHiToHeadphoneRoommate(string){
   if (string =='hello') {
   return ("I can't hear you!");
 }
