@@ -16,6 +16,7 @@ function logWhisper(string){
 }
 
 function sayHiToHeadphonedRoommate(string){
+  console.log(sayHiToHeadphonedRoommate)
   if (string =='hello') {
   return ("I can't hear you!");
 }
